@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kernel Settings</string>
+    <string name="idle_mode">idle_mode_checkbox</string>
+    <string name="partial_mode">partial_mode_checkbox</string>
+    <string name="ambient_brightness">ambient_brightness_list</string>
+    <string name="touchwake">touchwake_checkbox</string>
+    <string name="vibrastrength">vibration_strength_list</string>
+    <string name="gear_settingstitle"> Gear 2</string>
+    <string name="gear_title"> Kernel settings</string>
+</resources>

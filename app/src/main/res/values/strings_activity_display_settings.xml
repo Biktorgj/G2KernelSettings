@@ -1,0 +1,25 @@
+<resources>
+    <string name="title_activity_display_settings">Display Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_display">Display Settings</string>
+
+    <string name="pref_title_idle_mode">Idle Mode</string>
+    <string name="pref_description_idle_mode">Reduces battery consumption by reducing color depth </string>
+
+    <string name="pref_title_partial_mode">Partial Mode</string>
+    <string name="pref_description_partial_mode">Reduces battery consumption by doing partial redraws </string>
+    <string name="pref_title_ambient_br">Ambient mode brightness</string>
+    <string-array name="pref_ambient_br_list_titles">
+        <item>Low</item>
+        <item>Med</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="pref_ambient_br_list_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

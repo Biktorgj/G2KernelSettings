@@ -1,0 +1,33 @@
+<resources>
+    <string name="title_activity_vibrator_settings">Vibration Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_vibration">Vibration settings</string>
+
+    <string name="pref_title_vibration_strength">Vibration strength</string>
+    <string-array name="pref_vibration_strengthy_titles">
+        <item>1 - Lowest</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9 - Max</item>
+
+    </string-array>
+    <string-array name="pref_vibration_strength_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>

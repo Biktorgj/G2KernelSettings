@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_ts_settings">Touchscreen Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_title_touchwake">Touch Wake</string>
+    <string name="pref_description_touchwake">Enable or disable touchscreen on suspend
+    </string>
+
+</resources>
